@@ -1,4 +1,4 @@
-<img width="1787" height="934" alt="image" src="https://github.com/user-attachments/assets/0eca176d-137d-465b-8329-2106b9eda7e7" /># FHIT PRO — Financial Health Intelligence Technology
+# FHIT PRO — Financial Health Intelligence Technology
 
 > Demo version of FHITpro, its an web app to help with money and health management.
 > Plataforma integrada de saúde financeira e física para indivíduos e organizações.
@@ -47,9 +47,9 @@ O **FHIT PRO** é uma plataforma digital completa que combina gestão financeira
 - **Exportação** — Relatórios em PDF e Excel
 
 ---
-<img width="1787" height="934" alt="image" src="https://github.com/user-attachments/assets/6f780f3d-ab58-40d6-9758-9666d7318031" />
 
 ### Lançamentos
+<img width="1787" height="934" alt="image" src="https://github.com/user-attachments/assets/6f780f3d-ab58-40d6-9758-9666d7318031" />
 
 > Controle de receitas e despesas com categorização inteligente e histórico detalhado.
 
@@ -61,6 +61,7 @@ O **FHIT PRO** é uma plataforma digital completa que combina gestão financeira
 ---
 
 ### Especialista FHIT
+<img width="1800" height="935" alt="image" src="https://github.com/user-attachments/assets/9e4558e8-77df-4094-8034-a031a416e704" />
 
 > Assistente virtual com IA que oferece orientação personalizada sobre saúde financeira e física.
 
@@ -72,6 +73,9 @@ O **FHIT PRO** é uma plataforma digital completa que combina gestão financeira
 ---
 
 ### Planejamento Mensal
+<img width="1846" height="934" alt="image" src="https://github.com/user-attachments/assets/1eb87330-babe-41ba-bc69-23cfae7971bc" />
+<img width="1264" height="676" alt="image" src="https://github.com/user-attachments/assets/4c246be2-3ad6-42f2-8738-93c1b33cdea1" />
+
 
 > Orçamento mensal inteligente com categorias personalizáveis, metas e alertas de desvio.
 
@@ -83,6 +87,8 @@ O **FHIT PRO** é uma plataforma digital completa que combina gestão financeira
 ---
 
 ### Histórico de Renda
+<img width="1856" height="932" alt="image" src="https://github.com/user-attachments/assets/89f7e9dd-4c10-47b9-9452-7352f0c82a6b" />
+
 
 > Evolução temporal da renda com análise de tendências e comparativo com faixas do IBGE.
 
@@ -94,6 +100,8 @@ O **FHIT PRO** é uma plataforma digital completa que combina gestão financeira
 ---
 
 ### Balanço Patrimonial
+<img width="1856" height="936" alt="image" src="https://github.com/user-attachments/assets/13425aba-0dbd-4493-8dcf-7b573dca66de" />
+
 
 > Visão consolidada do patrimônio líquido, ativos, passivos e fundo de emergência.
 
@@ -124,7 +132,7 @@ O **FHIT PRO** é uma plataforma digital completa que combina gestão financeira
 
 ```
 FHITPRO/
-├── frontend/          # React + Vite (porta 3000)
+├── frontend/         
 │   └── src/
 │       ├── components/    # Componentes por feature
 │       ├── pages/         # Páginas (Login, Dashboard, etc.)

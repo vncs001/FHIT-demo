@@ -1,4 +1,5 @@
 # FHIT PRO — Financial Health Intelligence Technology
+<img width="1868" height="932" alt="image" src="https://github.com/user-attachments/assets/1a9c1bdf-46a1-4ac2-9e7e-8d8022c0e498" />
 
 > Demo version of FHITpro, its an web app to help with money and health management.
 > Plataforma integrada de saúde financeira e física para indivíduos e organizações.

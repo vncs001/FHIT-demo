@@ -168,69 +168,9 @@ O FHIT PRO implementa controle de acesso baseado em papéis (RBAC) com três ní
 
 ---
 
-## Instalação e Desenvolvimento
-
-### Pré-requisitos
-
-- Node.js >= 20.19.1
-- npm >= 9
-
-### Configuração
-
-```bash
-# Clone o repositório
-git clone <url-do-repositório>
-
-# Instale as dependências (raiz, frontend e backend)
-npm install
-cd frontend && npm install
-cd ../backend && npm install
-```
-
-### Variáveis de Ambiente
-
-Copie os arquivos de exemplo e preencha com suas credenciais:
-
-```bash
-cp frontend/src/.env.example frontend/src/.env
-```
-
-Variáveis necessárias:
-
-```env
-VITE_SUPABASE_URL=
-VITE_SUPABASE_ANON_KEY=
-VITE_GOOGLE_CLOUD_API_KEY=
-```
-
-### Rodando em Desenvolvimento
-
-```bash
-# Inicia frontend (porta 3000) e backend simultaneamente
-npm run dev
-```
-
-### Build para Produção
-
-```bash
-npm run build
-```
-
----
-
 ## Deploy
 
 O projeto é configurado para deploy na **Vercel** via `vercel.json`. O frontend é servido como SPA e o backend como serverless functions.
-
----
-
-## Documentação
-
-Documentação técnica adicional disponível em `/docs`:
-
-- `SUPABASE_RLS_GUIDE.md` — Configuração de Row Level Security
-- `GOOGLE_OAUTH_GUIDE.md` — Configuração do OAuth Google
-- `DOMAIN_CONFIGURATION.md` — Configuração de domínio
 
 ---
 
